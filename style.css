@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Truculenta&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: wheat !important;
+  font-family: "Truculenta", sans-serif !important;
+}
+footer {
+  color: white;
+  background-color: #d66b6b;
+  text-align: center;
+  font-size: 25px;
+  padding: 40px;
+  margin-top: 287px;
+}
+.header {
+  font-size: 45px;
+  font-weight: bold;
+  text-align: center;
+  margin: 50px;
+}
+#generate-box {
+  display: none;
+  background-color: white;
+  border-radius: 20px;
+  width: 950px;
+  height: 350px;
+  margin: auto;
+  padding: 20px;
+}
+.quotes-icon {
+  width: 150px;
+  margin-left: 50px;
+}
+.quote {
+  position: relative;
+  top: -60px;
+  bottom: 85px;
+  margin-left: 227px;
+}
+.author {
+  position: relative;
+  left: 208px;
+  bottom: 40px;
+}
+#btn {
+  position: relative;
+  left: 372px;
+  margin-bottom: 50px;
+  width: 600px;
+}
